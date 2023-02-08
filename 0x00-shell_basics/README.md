@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that creates a directory named my_first_directory in the /tmp/ directory
+Moving a file from one directory to another
