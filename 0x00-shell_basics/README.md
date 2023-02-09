@@ -1,2 +1,2 @@
 #!/bin/bash
-Printing of files
+Creating symbolic links
