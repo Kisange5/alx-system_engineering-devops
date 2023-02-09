@@ -1,2 +1,2 @@
 #!/bin/bash
-Creating symbolic links
+A script that moves all files beginning with an uppercase letter to the directory
