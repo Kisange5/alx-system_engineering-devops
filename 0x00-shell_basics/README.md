@@ -1,2 +1,2 @@
 #!/bin/bash
-Deleting a file
+Deleting a directory
