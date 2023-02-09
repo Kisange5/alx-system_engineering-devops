@@ -1,2 +1,2 @@
 #!/bin/bash
-shell basics
+Script that switches the current user to the user
