@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that adds execute permission to the owner and the group owner
+A script that adds permision
