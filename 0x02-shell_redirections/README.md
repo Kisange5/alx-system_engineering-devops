@@ -1,2 +1,2 @@
 !#/bin/bash
-A script that Display the first 10 lines of /etc/passwd
+A script that Display  the third line of the file iacta.
