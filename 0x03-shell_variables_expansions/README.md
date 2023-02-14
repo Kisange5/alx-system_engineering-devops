@@ -1,2 +1,2 @@
 #!/bin/bash
-creates a script that prints hello user
+Add /action to the path./action should be the directory the shell looks into when running a program.
