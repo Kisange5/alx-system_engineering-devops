@@ -1,2 +1,2 @@
 #!/bin/bash
-Create a script that counts the number of directories in the PATH
+A script that lists environmental variable
