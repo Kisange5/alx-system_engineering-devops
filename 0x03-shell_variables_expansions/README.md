@@ -1,2 +1,2 @@
 #!/bin/bash
-Creates a script that creates an alias
+creates a script that prints hello user
