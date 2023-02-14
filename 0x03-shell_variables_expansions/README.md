@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that creates a local variable
+A script that creates a new global variable
