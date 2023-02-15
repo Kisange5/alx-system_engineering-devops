@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that converts a number from base 10 to base 16
+A script that encodes and decodes text using rot13 encrpytion
