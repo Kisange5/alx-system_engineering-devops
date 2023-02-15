@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that converts a number from base 2 to base 10
+A script that prints all posible combination of two letters
