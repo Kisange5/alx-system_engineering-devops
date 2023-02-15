@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that adds two numbers stored in the environmental variable water and stir and prints the result
+Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
