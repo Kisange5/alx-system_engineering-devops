@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that printts every other line from the input
+A script that adds two numbers stored in the environmental variable water and stir and prints the result
