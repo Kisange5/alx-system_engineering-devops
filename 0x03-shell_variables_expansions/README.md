@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that encodes and decodes text using rot13 encrpytion
+A script that printts every other line from the input
