@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that prints the result of POWER  divided by DIVIDE
+A script that displays BREATH to the power of LOVE
