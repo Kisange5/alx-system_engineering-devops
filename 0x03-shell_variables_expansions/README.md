@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that displays BREATH to the power of LOVE
+A script that converts a number from base 2 to base 10
