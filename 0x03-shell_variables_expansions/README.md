@@ -1,2 +1,2 @@
 #!/bin/bash
-A script that prints all posible combination of two letters
+A script that prints a number with two decimal places
