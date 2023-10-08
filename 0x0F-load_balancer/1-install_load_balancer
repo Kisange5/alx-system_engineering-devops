@@ -9,7 +9,7 @@ frontend load_balancer
 backend foo
     balance roundrobin
     server 255364-web-01 54.157.189.99:80 check
-    server 255364-web-02 54.157.189.99:80 check
+    server 255364-web-02 34.224.16.11:80 check
 "
 
 # Update the package list to ensure you have the latest information about available packages
