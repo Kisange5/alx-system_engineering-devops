@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Configure Nginx server so that /redirect_me is redirecting to another page.
 
-initial__servername="server_name _;"
+initial_servername="server_name _;"
 new_servername="server_name _;\n\n\tlocation /redirect_me {\n\t\treturn 301 https://www.youtube.com/watch?v=QH2-TGUlwu4;\n\t}"
 
 sudo apt-get -y update

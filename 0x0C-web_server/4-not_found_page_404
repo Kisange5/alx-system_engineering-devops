@@ -8,7 +8,7 @@ sudo apt-get -y install nginx
 sudo sh -c 'echo "Hello World!" > /var/www/html/index.nginx-debian.html'
 sudo sed -i -e "s|$initial_servername|$new_servername|" /etc/nginx/sites-enabled/default
 
-initial__serverstr="=404;"
+initial_serverstr="=404;"
 new_serverstr="@oui_oui_baguette;\n\t}\n\n\tlocation @oui_oui_baguette {\n\t\tdefault_type text/html;\n\t\treturn 404 \"Ceci n\'est pas une page\";"
 
 sudo sed -i -z "s|$initial_serverstr|$new_serverstr|" /etc/nginx/sites-enabled/default
